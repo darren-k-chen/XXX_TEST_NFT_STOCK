@@ -7,7 +7,7 @@ contract Marvel1155 is ERC1155PresetMinterPauser {
     
     uint256 public constant XXX_TEST_NFT_STOCK = 0;
     
-    constructor() ERC1155PresetMinterPauser( "https://darren-k-chen.github.io/XXX_TEST_NFT_STOCK/config.json") {
+    constructor() ERC1155PresetMinterPauser("https://darren-k-chen.github.io/XXX_TEST_NFT_STOCK/{id}.json") {
         _mint(msg.sender, XXX_TEST_NFT_STOCK, 10**5, "");
     }
     
