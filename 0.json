@@ -1,6 +1,5 @@
 {
-    "id": 0,
-    "name":"XXX DAO (XXX, Inc) NFT Preferred Stock",
-    "description":"XXX DAO (XXX, Inc) NFT Preferred Stock",
-    "image":"https://raw.githubusercontent.com/darren-k-chen/XXX_TEST_NFT_STOCK/main/NFT_STOCK_SAMPLE.jpg",
+	"id": 0,
+	"name": "XXX DAO (XXX, Inc) NFT Preferred Stock",
+	"image": "https://raw.githubusercontent.com/darren-k-chen/XXX_TEST_NFT_STOCK/main/NFT_STOCK_SAMPLE.jpg"
 }
