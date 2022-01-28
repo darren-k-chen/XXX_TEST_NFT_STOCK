@@ -1,10 +1,6 @@
 {
-    "title":"XXX DAO (XXX Inc) NFT Preferred Stock",
+    "id": 0,
     "name":"XXX DAO (XXX, Inc) NFT Preferred Stock",
-    "type":"object",
-    "imageUrl":"https://darren-k-chen.github.io/XXX_TEST_NFT_STOCK/NFT_STOCK_SAMPLE.jpg",
     "description":"XXX DAO (XXX, Inc) NFT Preferred Stock",
-    "id":0,
-    "image":"https://darren-k-chen.github.io/XXX_TEST_NFT_STOCK/NFT_STOCK_SAMPLE.jpg",
-    "httpUrl":"https://darren-k-chen.github.io/XXX_TEST_NFT_STOCK/NFT_STOCK_SAMPLE.jpg"
+    "image":"https://raw.githubusercontent.com/darren-k-chen/XXX_TEST_NFT_STOCK/main/NFT_STOCK_SAMPLE.jpg",
 }
